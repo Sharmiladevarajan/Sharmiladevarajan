@@ -22,9 +22,9 @@ Hello! I'm Sharmila Devarajan, an experienced Full Stack Developer with a strong
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript, TypeScript, PostgreSQL
-- **Frameworks:** Node.js, Express.js
+- **Frameworks:** Node.js, Express.js, Flask
 - **Libraries:** ReactJS, TensorFlow
-- **Version Control:** Git
+- **Version Control:** Git, TFS
 - **Databases:** PostgreSQL, MySQL
 - **Testing:** Postman, Unit Testing
 - **Cloud:** AWS
