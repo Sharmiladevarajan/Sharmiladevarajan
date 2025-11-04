@@ -9,12 +9,12 @@
 
 ## 👋 About Me
 
-Hello! I'm Sharmila Devarajan, an experienced Full Stack Developer with a strong focus on integrating AI models into web applications. With over 2 years of experience in software engineering, I have a proven track record of improving user engagement and operational efficiency through innovative solutions.
+Hello! I'm Sharmila Devarajan, an experienced Full Stack Developer with a strong focus on integrating AI models into web applications. With over 2.9 years of experience in software engineering, I have a proven track record of improving user engagement and operational efficiency through innovative solutions.
 
 ### Highlights
-- **🔧 Skilled in:** Python, JavaScript, TypeScript, PostgreSQL, Node.js, Express.js, ReactJS, TensorFlow, AWS
+- **🔧 Skilled in:** Python, JavaScript, TypeScript, PostgreSQL, Node.js, Express.js, ReactJS,Next Js, Nest JS, TensorFlow, AWS
 - **📊 Experienced in:** AI & ML integration, Generative AI, Machine Learning models, serverless architecture
-- **💼 Current role:** Software Engineer at AVASOFT Inc, Chennai, India
+- **💼 Current role:** Full Stack Developer at IMPELOX , Chennai, India
 - **🌐 Passion for:** Developing AI-driven applications, enhancing user experience, and optimizing backend systems
 
 ---
@@ -22,22 +22,32 @@ Hello! I'm Sharmila Devarajan, an experienced Full Stack Developer with a strong
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript, TypeScript, PostgreSQL
-- **Frameworks:** Node.js, Express.js, Flask
-- **Libraries:** ReactJS, TensorFlow
+- **Frameworks:** Node.js, Express.js, Flask, Nest JS.
+- **Libraries:** ReactJS, TensorFlow,,Next Js
 - **Version Control:** Git, TFS
 - **Databases:** PostgreSQL, MySQL
 - **Testing:** Postman, Unit Testing
 - **Cloud:** AWS
-- **AI & ML:** Bedrock, Open AI & NLP, Neural Networks
+- **AI & ML:** Bedrock, Open AI & NLP, Neural Networks,Gemini ADK, Agents, Langchain. 
 - **Soft Skills:** Leadership, Teamwork/Collaboration, Decision-making, Problem-solving, Adaptability/Flexibility
 
 ---
 
 ## 💼 Experience
+### AI & Full Stack Engineer
+_Impelox | May 2025 – Present_
+
+•	Architected and developed an AI-driven multi-agent automation platform integrating Gemini, GPT, and voice-based agents for real-time lead engagement and appointment orchestration.
+•	Designed and implemented scalable Next.js frontend and NestJS + FastAPI(Python) backend, enabling modular agent communication and microservice interoperability.
+•	Engineered LLM-powered agent workflows for appointment booking, follow-up, and no-show prevention, using memory graphs and
+context-driven reasoning for adaptive decision-making.
+•	Developed AI orchestration pipelines that autonomously manage prompt selection, JSON schema, and action routing between agents. Integrated Twilio Voice, Gmail Pub/Sub, and Google Cloud APIs to create end-to-end automation covering scheduling, reminders, and lead nurturing. Optimized backend concurrency with async execution and event-driven architecture, improving response latency by 60%.
+•	Led system architecture and agent framework design, defining interfaces, role hierarchies, and personality-guided response logic for domain-specific AI agents.
+
 
 ### Software Engineer
 **AVASOFT Inc**  
-_February '23 - Present_  
+_Jan_ '23 - _Jan '25_ 
 _Chennai, India_
 
 - Enhanced user experience by developing applications leveraging AI technologies using React, Node.js, Express.js, TypeScript, and PostgreSQL.
@@ -55,6 +65,9 @@ _Chennai, India_
 
 ## 🌟 Projects
 
+### Agentic Workflow Automation Platform — Impelox (Product)
+•	Built an AI-powered multi-agent automation platform using custom Agent SDKs with Gemini and OpenAI GPT, enabling intelligent workflow orchestration, adaptive decision-making, and a centralized admin console for real-time monitoring and configurable agent behavior. Integrated Twilio Voice and Gmail Pub/Sub for real-time scheduling, notifications, and communication automation.
+
 ### Full Stack Developer, Internal Accelerator
 - Designed and developed an internal accelerator application to streamline the design and development process, optimizing project quality, reducing manual effort, and accelerating timelines.
 - Created a comprehensive, user-friendly application for building custom chatbots with a single click, automating both backend and frontend code generation and enabling automated deployment, significantly reducing manual efforts and improving project efficiency.
@@ -63,7 +76,6 @@ _Chennai, India_
 - Developed two distinct AI-driven solutions to automate manual processes:
   - The first solution leverages Generative AI to automate report generation, reducing time and human error.
   - The second solution integrates Generative AI and Machine Learning models to provide a backend solution for automating image color correction and extraction, enhancing accuracy and operational efficiency.
-
 ---
 
 ## 🎓 Education
